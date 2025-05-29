@@ -1,0 +1,14 @@
+﻿@model Nhom19_GameHoiLaDap.Models.NguoiChoi
+
+<h2>Đăng ký</h2>
+
+<form asp-action="Register" method="post">
+    <label>Tên đăng nhập</label>
+    <input asp-for="TenDangNhap" class="form-control" required />
+    <label>Mật khẩu</label>
+    <input asp-for="MatKhau" type="password" class="form-control" required />
+    <label>Họ tên</label>
+    <input asp-for="HoTen" class="form-control" required />
+    <br />
+    <button type="submit" class="btn btn-primary">Đăng ký</button>
+</form>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nhom19_GameHoiLaDap.props" />
+</Project>

@@ -1,0 +1,20 @@
+﻿@{
+    var cauHoi = ViewBag.CauHoi;
+    var dapAn = ViewBag.DapAn as List<string>;
+}
+
+<h2>@cauHoi.NoiDung</h2>
+
+<form asp-action="SubmitAnswer" method="post">
+    <input type="hidden" name="cauHoiId" value="@cauHoi.CauHoiId" />
+
+    @foreach (var d in dapAn)
+    {
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="luaChon" value="@d" required />
+            <label class="form-check-label">@d</label>
+        </div>
+    }
+
+    <button type="submit" class="btn btn-primary mt-3">Trả lời</button>
+</form>

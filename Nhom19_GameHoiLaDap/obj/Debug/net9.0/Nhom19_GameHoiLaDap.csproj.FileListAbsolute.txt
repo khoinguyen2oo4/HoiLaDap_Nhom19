@@ -1,0 +1,464 @@
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\appsettings.Development.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\appsettings.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.staticwebassets.runtime.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.staticwebassets.endpoints.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.exe
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.deps.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.runtimeconfig.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.pdb
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Azure.Core.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Azure.Identity.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Humanizer.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.ClientModel.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.CodeDom.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Text.Json.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.csproj.AssemblyReference.cache
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.AssemblyInfoInputs.cache
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.AssemblyInfo.cs
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.csproj.CoreCompileInputs.cache
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.MvcApplicationPartsAssemblyInfo.cache
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.RazorAssemblyInfo.cache
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.RazorAssemblyInfo.cs
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\scopedcss\bundle\Nhom19_GameHoiLaDap.styles.css
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\scopedcss\projectbundle\Nhom19_GameHoiLaDap.bundle.scp.css
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\of9ial4l4j-b9sayid5wm.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ypmuc5zsr3-61n19gt1b8.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\n6bifr5j0e-xtxxf3hu2r.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\7p1nalv9mn-bqjiyaj88i.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\7makog6ulq-c2jlpeoesf.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\cv7hmj73ms-erw9l3u2r3.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\f822tgyq1e-aexeepp0ev.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\hij2byy8sp-d7shbmvgxk.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\oim9zuye00-ausgxo2sd3.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\2gfu3li1kx-k8d9w2qqmf.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\7vy7yu1nsq-cosvhxvwiu.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\se7g6cqhdi-ub07r2b239.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\5amubm55pm-fvhpjtyr6v.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\jftq36c5ff-b7pk76d08c.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ggpjpqvwhx-fsbi9cje9m.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\p9kmxpzu58-rzd6atqjts.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\c4hfpl71sf-ee0r1s7dh0.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\67txz9l98h-dxx9fxp4il.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ii0ky5tje8-jd9uben2k1.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\uk3uzxvomx-khv3u5hwcm.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\3gbc8b8e0m-r4e9w2rdcm.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\3gzy552w6m-lcd1t2u6c8.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\c1c46os9bo-c2oey78nd0.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\l33geknvgc-tdbxkamptv.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\u2axbvukvi-j5mq2jizvt.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\gmztvgd4hd-06098lyss8.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\tdm714zor1-nvvlpmu67g.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\fe0fh0ji08-s35ty4nyc5.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\1gnzfd46mj-pj5nd1wqec.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\9ajmt1wey4-46ein0sx1k.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\23kbol25g0-v0zj4ognzu.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\g6y44w3vk6-37tfw0ft22.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\hx7jth7bmi-hrwsygsryq.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\yuu2ts9en5-pk9g2wxc8p.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\p3mi00j940-ft3s53vfgj.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ts7fmle52s-6cfz1n2cew.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\k4plppnwbf-6pdc2jztkx.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\i0cdd2ejsi-493y06b0oq.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\jes9rcgg48-iovd86k7lj.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\gthj32zv09-vr1egmr9el.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\r5xx0wro47-kbrnm935zg.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ap6yaq2lxx-jj8uyg4cgr.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ujnvx4jekn-y7v9cxd14o.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\l2scxuv178-notf2xhcfb.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ora0qpohya-h1s4sie4z3.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\jyxw8jtpy7-63fj8s7r0e.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\19cmyv50cj-0j3bgjxly4.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\se3ls72onr-47otxtyo56.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\hdwxsyr73m-4v8eqarkd7.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\mox5le3a73-356vix0kms.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\dye9imb2qc-83jwlth58m.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ebhq13umih-mrlpezrjn3.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\juuyrmu1mo-lzl9nlhx6b.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\fkgewzz1aj-ag7o75518u.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\xeyq3mo5ja-x0q3zqp4vz.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\hcmqhfhipt-0i3buxo5is.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\v1j4wnr7mf-o1o13a6vjx.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\zt2kysvw5i-ttgo8qnofa.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\b10zcb9wh6-2z0ns9nrw6.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\qxjps81we7-muycvpuwrr.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\okemiht5tq-87fc7y1x7t.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\w37d8n7bbf-mlv21k5csn.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\f1l1gdub29-iupgntna2n.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\4tjgz7ajqf-iupgntna2n.gz
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.build.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.development.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.Nhom19_GameHoiLaDap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.Nhom19_GameHoiLaDap.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.build.Nhom19_GameHoiLaDap.props
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Nhom19_GameHoiLaDap.props
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Nhom19_GameHoiLaDap.props
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_G.A7349D09.Up2Date
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\refint\Nhom19_GameHoiLaDap.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.pdb
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.genruntimeconfig.cache
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\ref\Nhom19_GameHoiLaDap.dll
+C:\Học kì 2B 2024-2025\Công nghệ phần mềm\Đồ án môn học_Nhóm 19\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\appsettings.Development.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\appsettings.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.staticwebassets.endpoints.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.staticwebassets.runtime.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.exe
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.deps.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.runtimeconfig.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Nhom19_GameHoiLaDap.pdb
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Azure.Core.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Azure.Identity.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Humanizer.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.ClientModel.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.CodeDom.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Text.Json.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.csproj.AssemblyReference.cache
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.AssemblyInfoInputs.cache
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.AssemblyInfo.cs
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.csproj.CoreCompileInputs.cache
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.RazorAssemblyInfo.cache
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.RazorAssemblyInfo.cs
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\scopedcss\bundle\Nhom19_GameHoiLaDap.styles.css
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\scopedcss\projectbundle\Nhom19_GameHoiLaDap.bundle.scp.css
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\of9ial4l4j-b9sayid5wm.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ypmuc5zsr3-61n19gt1b8.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\n6bifr5j0e-xtxxf3hu2r.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\7p1nalv9mn-bqjiyaj88i.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\7makog6ulq-c2jlpeoesf.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\cv7hmj73ms-erw9l3u2r3.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\f822tgyq1e-aexeepp0ev.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\hij2byy8sp-d7shbmvgxk.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\oim9zuye00-ausgxo2sd3.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\2gfu3li1kx-k8d9w2qqmf.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\7vy7yu1nsq-cosvhxvwiu.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\se7g6cqhdi-ub07r2b239.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\5amubm55pm-fvhpjtyr6v.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\jftq36c5ff-b7pk76d08c.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ggpjpqvwhx-fsbi9cje9m.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\p9kmxpzu58-rzd6atqjts.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\c4hfpl71sf-ee0r1s7dh0.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\67txz9l98h-dxx9fxp4il.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ii0ky5tje8-jd9uben2k1.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\uk3uzxvomx-khv3u5hwcm.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\3gbc8b8e0m-r4e9w2rdcm.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\3gzy552w6m-lcd1t2u6c8.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\c1c46os9bo-c2oey78nd0.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\l33geknvgc-tdbxkamptv.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\u2axbvukvi-j5mq2jizvt.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\gmztvgd4hd-06098lyss8.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\tdm714zor1-nvvlpmu67g.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\fe0fh0ji08-s35ty4nyc5.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\1gnzfd46mj-pj5nd1wqec.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\9ajmt1wey4-46ein0sx1k.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\23kbol25g0-v0zj4ognzu.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\g6y44w3vk6-37tfw0ft22.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\hx7jth7bmi-hrwsygsryq.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\yuu2ts9en5-pk9g2wxc8p.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\p3mi00j940-ft3s53vfgj.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ts7fmle52s-6cfz1n2cew.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\k4plppnwbf-6pdc2jztkx.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\i0cdd2ejsi-493y06b0oq.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\jes9rcgg48-iovd86k7lj.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\gthj32zv09-vr1egmr9el.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\r5xx0wro47-kbrnm935zg.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ap6yaq2lxx-jj8uyg4cgr.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ujnvx4jekn-y7v9cxd14o.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\l2scxuv178-notf2xhcfb.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ora0qpohya-h1s4sie4z3.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\jyxw8jtpy7-63fj8s7r0e.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\19cmyv50cj-0j3bgjxly4.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\se3ls72onr-47otxtyo56.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\hdwxsyr73m-4v8eqarkd7.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\mox5le3a73-356vix0kms.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\dye9imb2qc-83jwlth58m.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\ebhq13umih-mrlpezrjn3.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\juuyrmu1mo-lzl9nlhx6b.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\fkgewzz1aj-ag7o75518u.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\xeyq3mo5ja-x0q3zqp4vz.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\hcmqhfhipt-0i3buxo5is.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\v1j4wnr7mf-o1o13a6vjx.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\zt2kysvw5i-ttgo8qnofa.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\b10zcb9wh6-2z0ns9nrw6.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\qxjps81we7-muycvpuwrr.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\okemiht5tq-87fc7y1x7t.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\w37d8n7bbf-mlv21k5csn.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\f1l1gdub29-iupgntna2n.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\compressed\4tjgz7ajqf-iupgntna2n.gz
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.build.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.development.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.Nhom19_GameHoiLaDap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.Nhom19_GameHoiLaDap.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.build.Nhom19_GameHoiLaDap.props
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Nhom19_GameHoiLaDap.props
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Nhom19_GameHoiLaDap.props
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_G.A7349D09.Up2Date
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\refint\Nhom19_GameHoiLaDap.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.pdb
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.genruntimeconfig.cache
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\ref\Nhom19_GameHoiLaDap.dll

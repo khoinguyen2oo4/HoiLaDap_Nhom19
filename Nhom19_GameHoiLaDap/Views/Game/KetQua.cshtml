@@ -1,0 +1,11 @@
+﻿@if ((bool)ViewBag.KetQua)
+{
+    <h2 class="text-success">🎉 Chính xác!</h2>
+}
+else
+{
+    <h2 class="text-danger">❌ Sai rồi!</h2>
+    <p>Đáp án đúng là: <strong>@ViewBag.DapAnDung</strong></p>
+}
+
+<a class="btn btn-secondary" href="/Game/Play">Câu hỏi khác</a>

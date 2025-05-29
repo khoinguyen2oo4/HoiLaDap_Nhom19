@@ -1,0 +1,10 @@
+﻿@{
+    var cauHoi = (Nhom19_GameHoiLaDap.Models.CauHoi)ViewBag.CauHoi;
+}
+
+<h3>@ViewBag.Message</h3>
+
+<p><strong>Câu hỏi:</strong> @cauHoi.NoiDung</p>
+<p><strong>Đáp án đúng:</strong> @cauHoi.DapAnDung</p>
+
+<a class="btn btn-success" asp-controller="Game" asp-action="Play">👉 Câu tiếp theo</a>

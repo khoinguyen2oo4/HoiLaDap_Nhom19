@@ -1,0 +1,25 @@
+﻿@model List<Nhom19_GameHoiLaDap.Models.CauHoi>
+
+<h2>Danh sách câu hỏi</h2>
+
+<a class="btn btn-primary" asp-action="Create">Thêm câu hỏi mới</a>
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Nội dung</th>
+            <th>Đáp án đúng</th>
+            <th>Độ khó</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.NoiDung</td>
+                <td>@c.DapAnDung</td>
+                <td>@c.DoKho</td>
+            </tr>
+        }
+    </tbody>
+</table>
