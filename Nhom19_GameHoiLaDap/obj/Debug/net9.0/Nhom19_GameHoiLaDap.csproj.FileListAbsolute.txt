@@ -462,3 +462,4 @@ C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.
 C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.pdb
 C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.genruntimeconfig.cache
 C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\ref\Nhom19_GameHoiLaDap.dll
+C:\Projects\GameHoiLaDap\Nhom19_GameHoiLaDap\Nhom19_GameHoiLaDap\obj\Debug\net9.0\Nhom19_GameHoiLaDap.sourcelink.json

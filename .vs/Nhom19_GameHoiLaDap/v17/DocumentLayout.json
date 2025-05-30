@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\migrations\\20250529114437_addcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\migrations\\20250529114437_addcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -19,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\game\\play.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\controllers\\cauhoicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,32 +67,12 @@
       "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\models\\cauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\models\\cauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\views\\cauhoi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\views\\cauhoi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -145,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\migrations\\20250528130058_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\migrations\\20250528130058_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|c:\\projects\\gamehoiladap\\nhom19_gamehoiladap\\nhom19_gamehoiladap\\migrations\\20250529114437_addcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3740F8-4732-4330-9CCB-6875643B6482}|Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj|solutionrelative:nhom19_gamehoiladap\\migrations\\20250529114437_addcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,218 +158,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 666,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\GameController.cs",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Controllers\\GameController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T12:43:50.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KetQua.cshtml",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\KetQua.cshtml",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Game\\KetQua.cshtml",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\KetQua.cshtml",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Game\\KetQua.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T11:57:33.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "CauHoiController.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\CauHoiController.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Controllers\\CauHoiController.cs",
               "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\CauHoiController.cs",
               "RelativeToolTip": "Nhom19_GameHoiLaDap\\Controllers\\CauHoiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T12:43:36.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T11:19:20.32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Result.cshtml",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\Result.cshtml",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Game\\Result.cshtml",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\Result.cshtml",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Game\\Result.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T12:33:26.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T12:12:33.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CauHoi.cs",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Models\\CauHoi.cs",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Models\\CauHoi.cs",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Models\\CauHoi.cs",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Models\\CauHoi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T12:44:46.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NguoiChoi.cs",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Models\\NguoiChoi.cs",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Models\\NguoiChoi.cs",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Models\\NguoiChoi.cs",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Models\\NguoiChoi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T12:45:08.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\appsettings.json",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\appsettings.json",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\appsettings.json",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-28T13:09:05.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Play.cshtml",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\Play.cshtml",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Game\\Play.cshtml",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\Play.cshtml",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Game\\Play.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T12:41:54.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T12:47:38.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Create.cshtml",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Create.cshtml",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Create.cshtml",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Create.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T11:47:16.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Index.cshtml",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T12:41:27.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T12:48:20.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Edit.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Edit.cshtml",
               "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Edit.cshtml",
               "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-29T11:47:27.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Delete.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Delete.cshtml",
               "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Delete.cshtml",
               "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-29T11:47:37.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Details.cshtml",
-              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Details.cshtml",
-              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Details.cshtml",
-              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Index.cshtml",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T11:47:49.599Z"
+              "WhenOpened": "2025-05-28T12:41:27.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 4,
               "Title": "20250529114437_AddCauHoi.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Migrations\\20250529114437_AddCauHoi.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Migrations\\20250529114437_AddCauHoi.cs",
@@ -381,7 +223,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 7,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:43:50.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T12:12:33.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CauHoi.cs",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Models\\CauHoi.cs",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Models\\CauHoi.cs",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Models\\CauHoi.cs",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Models\\CauHoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:44:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NguoiChoi.cs",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Models\\NguoiChoi.cs",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Models\\NguoiChoi.cs",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Models\\NguoiChoi.cs",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Models\\NguoiChoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:45:08.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\appsettings.json",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\appsettings.json",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\appsettings.json",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T13:09:05.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Create.cshtml",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Create.cshtml",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T11:47:16.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\CauHoi\\Details.cshtml",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\CauHoi\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T11:47:49.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\Result.cshtml",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Game\\Result.cshtml",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\Result.cshtml",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Game\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T12:33:26.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T11:19:20.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KetQua.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\KetQua.cshtml",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Game\\KetQua.cshtml",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\KetQua.cshtml",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Game\\KetQua.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T11:57:33.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Play.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\Play.cshtml",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Game\\Play.cshtml",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Game\\Play.cshtml",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Game\\Play.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:41:54.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:47:38.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nhom19_GameHoiLaDap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:48:20.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Account\\Login.cshtml",
@@ -393,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Controllers\\AccountController.cs",
@@ -405,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Account\\Register.cshtml",
@@ -417,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Program.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Program.cs",
@@ -429,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\appsettings.Development.json",
@@ -441,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "GameContextFactory.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Data\\GameContextFactory.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Data\\GameContextFactory.cs",
@@ -453,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Nhom19_GameHoiLaDap.csproj",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap.csproj",
@@ -465,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "20250528130058_InitialCreate.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Migrations\\20250528130058_InitialCreate.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Migrations\\20250528130058_InitialCreate.cs",
@@ -477,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "GameContext.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Data\\GameContext.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Data\\GameContext.cs",
@@ -489,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "KetQua.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Models\\KetQua.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Models\\KetQua.cs",
@@ -501,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\_ViewImports.cshtml",
@@ -513,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\_ViewStart.cshtml",
@@ -525,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Home\\Privacy.cshtml",
@@ -537,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "PlayOptions.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Home\\PlayOptions.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Home\\PlayOptions.cshtml",
@@ -549,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "RankingController.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\RankingController.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Controllers\\RankingController.cs",
@@ -561,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Controllers\\ProfileController.cs",
@@ -573,7 +571,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Controllers\\AdminController.cs",
@@ -585,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Ranking\\Index.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Ranking\\Index.cshtml",
@@ -597,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projects\\GameHoiLaDap\\Nhom19_GameHoiLaDap\\Nhom19_GameHoiLaDap\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Nhom19_GameHoiLaDap\\Views\\Admin\\Index.cshtml",

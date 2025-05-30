@@ -32,5 +32,43 @@ namespace Nhom19_GameHoiLaDap.Controllers
             }
             return View(cauHoi);
         }
+
+        public IActionResult Edit(int id)
+        {
+            var ch = _context.CauHois.Find(id);
+            if (ch == null) return NotFound();
+            return View(ch);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(CauHoi cauHoi)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.CauHois.Update(cauHoi);
+                _context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View(cauHoi);
+        }
+
+        public IActionResult Delete(int id)
+        {
+            var ch = _context.CauHois.Find(id);
+            if (ch == null) return NotFound();
+            return View(ch);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            var ch = _context.CauHois.Find(id);
+            if (ch != null)
+            {
+                _context.CauHois.Remove(ch);
+                _context.SaveChanges();
+            }
+            return RedirectToAction("Index");
+        }
     }
 }

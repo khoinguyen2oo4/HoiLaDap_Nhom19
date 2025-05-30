@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nhom19_GameHoiLaDap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0cd6c9b3e54e5fe1a5714153ec2bfebb201e6ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nhom19_GameHoiLaDap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nhom19_GameHoiLaDap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
